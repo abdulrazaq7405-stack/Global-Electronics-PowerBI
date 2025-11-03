@@ -1,47 +1,40 @@
-# Global Electronics Retailer Dashboard
+# 📊 Global Electronics Power BI Dashboard
 
-📊 **Power BI Dashboard Project**
+### 🧠 Project Overview
+This Power BI project provides an in-depth analysis of a *Global Electronics Retail Company*, focusing on key business performance metrics across sales, customers, products, and stores.
 
-This dashboard analyzes sales, profit, and performance across different regions, product categories, and time periods.
+### 🎯 Objectives
+- To visualize overall company performance using interactive dashboards  
+- To identify top-performing products, regions, and stores  
+- To analyze revenue, profit, and customer trends over time  
 
----
-
-## 🚀 Project Overview
-The Global Electronics Retailer Dashboard provides insights into:
-- Total revenue, profit, and quantity sold
-- Year-over-Year (YoY) and Month-over-Month (MoM) growth
-- Top-performing products, categories, and regions
-- Customer segmentation and key performance metrics (KPIs)
-
----
-
-## 🧰 Tools Used
-- Microsoft Power BI  
-- Microsoft Excel  
-- DAX (Data Analysis Expressions)  
-- Power Query  
+### 📈 Key Insights
+- Sales distribution across different countries and regions  
+- Profitability analysis by product category and sub-category  
+- Customer and store performance breakdown  
+- Year-over-year and month-over-month growth analysis  
 
 ---
 
-## 🧠 Skills Demonstrated
-- Data modeling and relationships  
-- DAX calculations and measures  
-- Visualization and storytelling with data  
-- KPI tracking and performance analysis  
+### 🌐 View the Live Dashboard
+🔗 **[Click here to open the Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZTliODJkZDEtNTY4NS00Y2E2LWJmMDEtYTA0NDY5M2ZhZGFlIiwidCI6IjFiMWU5NDg4LWNjOTctNGUxYi05Mzc1LWJkYTQ1ZmZiNjUzMSJ9)**  
 
 ---
 
-## 📸 Dashboard Preview
-*(Upload a screenshot of your Power BI dashboard here)*
+### 🛠 Tools & Technologies
+- *Power BI* – Data modeling and visualization  
+- *Excel / CSV* – Data source  
+- *DAX* – Calculations and measures  
+- *Data Cleaning & Transformation* – Power Query  
 
 ---
 
-## 📁 File
-- `Global-Electronics-Retailer.pbix` — Power BI dashboard file
-
----
-
-## 👨‍💻 Author
-**Yusuf Abdulrazaq Lucky**  
+### 👨‍💻 Developer
+*Yusuf Abdulrazaq Lucky*  
 📧 abdulrazaq7405@gmail.com  
+📍 Osun State, Nigeria  
 🔗 [GitHub Profile](https://github.com/Abdulrazaq7405-stack)
+
+---
+
+⭐ If you find this project helpful, don’t forget to star the repository!
