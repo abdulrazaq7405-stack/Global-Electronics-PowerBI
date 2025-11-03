@@ -1,4 +1,6 @@
 # 📊 Global Electronics Power BI Dashboard
+https://raw.githubusercontent.com/Abdulrazaq7405-stack/Global-Electronics/main/Screenshot%202025-10-28%20185113.png
+
 
 ### 🧠 Project Overview
 This Power BI project provides an in-depth analysis of a *Global Electronics Retail Company*, focusing on key business performance metrics across sales, customers, products, and stores.
